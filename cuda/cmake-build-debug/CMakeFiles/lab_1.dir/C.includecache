@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gargasz/Desktop/CSE 5441/lab_4/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
